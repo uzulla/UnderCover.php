@@ -1,0 +1,18 @@
+{
+    "name": "zishida/ucarray",
+    "description": "array manipulation spying",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "uzulla",
+            "email": "uzulla@himitsukichi.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "UnderCover\\": "src/"
+        }
+    }
+}
